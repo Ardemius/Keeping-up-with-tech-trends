@@ -1,0 +1,297 @@
+= Keeping Up with technology trends
+Thomas SCHWENDER <icon:github[] https://github.com/Ardemius/[GitHub] / icon:twitter[role="aqua"] https://twitter.com/thomasschwender[@thomasschwender]>
+// Handling GitHub admonition blocks icons
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:status:
+:outfilesuffix: .adoc
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+:imagesdir: ./images
+:resourcesdir: ./resources
+:source-highlighter: highlightjs
+:highlightjs-languages: asciidoc
+// We must enable experimental attribute to display Keyboard, button, and menu macros
+:experimental:
+// Next 2 ones are to handle line breaks in some particular elements (list, footnotes, etc.)
+:lb: pass:[<br> +]
+:sb: pass:[<br>]
+// check https://github.com/Ardemius/personal-wiki/wiki/AsciiDoctor-tips for tips on table of content in GitHub
+:toc: macro
+:toclevels: 4
+// To number the sections of the table of contents
+//:sectnums:
+// Add an anchor with hyperlink before the section title
+:sectanchors:
+// To turn off figure caption labels and numbers
+:figure-caption!:
+// Same for examples
+//:example-caption!:
+// To turn off ALL captions
+// :caption:
+
+toc::[]
+
+== Overview
+
+Se tenir au courant des dernières évolutions technologiques est une nécessité dans nos métiers de la Tech. +
+Or, si dans notre monde connecté trouver de l'information n'est pas difficile, trouver la BONNE information, celle qui vous est réellement utile, l'est nettement plus. +
+Les personnes à suivre et les types de media à notre disposition sont nombreux, certains sont mis à jour plusieurs fois par jour, tant et si bien qu'il est facile de se noyer dans le volume d'information et de finir par laisser tomber écoeuré.
+
+Dans cet article, je vais vous présenter mes astuces et mes ressources pour garder le contrôle sur l'information, afin de réussir votre veille technologique : 
+
+	* XXX
+	* et bien d'autres encore 😉
+
+Attention, on attaque !
+
+
+* Julien : changer "obligatoire" par "nécessité" ou moins violent (histoire qu'on ne pense pas être "nul" si on ne fait pas de veille)
+* Son plan : 
+	** planter le contexte et créer de l'empathie avec le public
+	** dernière partie : proposition de valeur (ce que les gens vont retenir) et le format du talk
+* Une majorité des gens vont choisir le talk rien que sur le titre
+
+== Notes
+
+* La grande question : *pourquoi, pour quelles raisons fait-on / faut-il faire de la veille ?*
+
+	** tâche / action demandée dans le cadre de son travail : on doit ramener certaines infos et les présenter à son équipe / à des décideurs
+
+	** parce que ça nous plaît ! Une partie de sa veille doit venir de SOI (*veille dite personnelle*), il ne faut surtout pas s'oublier et "sombrer" dans une veille uniquement dédiée au "travail demandé / commandé" -> plus de plaisir et la déprime ne doit pas être loin...
+		*** La veille tech doit vous permettre de *briser le "cercle de l'ennui"* et vous apporter du *fun*
+		*** cf https://www.youtube.com/watch?v=7N2jfUncxQc, notion d'*Ikigai* que votre veille doit servir +
+		image:ikigai.jpg[]
+
+	** Via une veille régulière, on entretient ses connaissances et ses compétences
+
+* -> Et, cf mon talk sur comment bien préparer un salon technologique, faire sa veille doit vous permettre d'alimenter votre base de connaissances.
+	** et base de connaissances implique MOTEUR DE RECHERCHE : ZE "LA" killer feature pour l'avenir 😉 
+
+Une *définition de la veille technologique* : 
+
+	* Organiser sa formation continue (apprentissage continue / permanent), se tenir au courant des prochaines tendances et anticiper les grands changements dans votre domaine de prédilection.
+	* La veille est l'ensemble des habitudes et des processus qui permettent d'apprendre en continu
+
+Le *workflow de la veille technologique* (Cf Marc Friederich) : 
+
+	* le *domaine* : commencer par identifier ce que l'on a BESOIN ou ENVIE de suivre, ce qui permettra plus tard de catégoriser sa veille, de la trier
+		** le domaine permet de distinguer les généralistes des spécialistes
+	* le *système d'écoute* : toute la boîte outils (prochaine section) peut y passer...
+	* *workflow de tri*
+		** Grandes questions : *Pourquoi* et *Quand* ?
+			*** Utilité et temporalité de l'info
+		1. en un coup d'oeil rapide : est-ce récent ? cela semble-t-il réellement intéressant ?
+		2. si "oui" précédemment JE LIS / CONSULTE
+		3. si intérêt confirmé, JE CLASSE DANS MA BASE DE CONNAISSANCES (de nouveau GitHub est votre ami pour cela 😉)
+	* le *classement*
+		** tags, sous-domaines, catégories, etc. : l'idée est de catégoriser de la façon qui vous convient le mieux (ce qui est souvent TRES personnel 😅)
+	* *l'épreuve du temps*
+		** l'objectif est de prédire et qualifier l'utilité des informations
+	* *exploitation*
+		** l'exploitation passe par l'expérimentation, le *passage à la pratique* quand on a validé que *le sujet en valait la peine* (car là on va y passer beaucoup plus de temps, ce dont on manque toujous le plus !)
+			*** Prototype
+			*** vrais projets
+			*** REX : ce que l'on a appris en pratiquant
+
+Pas mal, je vois un *parallèle avec un Data pipeline* (ingérer / traiter / visualiser (rendre facilement accessible) avec le stockage en parallèle), mais PAS au sens "Big Data" mais plutôt au sens BI. +
+J'entends par là qu'on ne va pas TOUT récupérer (comme un data lake), mais que l'on va devoir effectuer une sélection en amont (et donc à ce niveau on se rapproche d'une "bonne vieille BI"). +
+Cela nous donne : 
+
+	* *phase de sélection / sélectionner (filtrer) et catégoriser*
+		** on ne peut pas tout suivre, on commence par identifier ce dont on a BESOIN, ou ce qui nous INTERESSE personnellement
+
+	* *Lire / consulter l'information*
+		** maintenant qu'on a sélectionné certaines sources que l'on PENSE être intéressantes, on peut *commencer à accéder à l'information*, pour vérifier / valider la précédente sélection. +
+		Si l'intérêt est confirmé, on lit complètement "pleinement" l'article.
+
+	* *Persister l'information*
+		** maintenant qu'on a bien lu l'information, et que l'on a confirmé son intérêt, on peut la persister, c'est à dire *lui faire intégrer notre base de connaissances*, afin de nous la rendre accessible et utile à jamais
+			*** ATTENTION à l'obsolescence des infos ! Raison pour laquelle on date *TOUJOURS* les infos de la base de connaissances.
+				**** Mais grâce à GitHub & co, dans le pire des cas, même si oubli, on a toujours la date du commit 😉 
+
+	* *Exploiter / valoriser l'information*
+		** Pour les informations les plus utiles, un passage à la pratique permet de pousser sa compréhension / maîtrise des connaissances acquises : POC, projets, article de blog (REX)
+
+== La boîte à outils
+
+Votre boîte à outils doit contenir de quoi 
+
+	* récupérer les mises à jour de vos ressources
+	* organiser vos ressources de veille
+	* persister les informations que vous jugerez être les plus utiles et pertinentes (base de connaissance)
+
+De quels outils a-t-on besoin pour organiser et persister sa veille ?
+
+* *gestionnaire de favoris* pour navigateur
+
+* *gestionnaire de podcasts*
+	** podcast addict
+
+* *gestionnaire de vidéos* et *chaînes YouTube* : car YouTube ne veut PAS que vous vous y retrouviez afin de pouvoir mieux vous inciter à regarder de nouveaux contenus...
+	** je ne trouve pas ça pratique, et finalement je préfère encore sauvegarder la vidéo comme un favoris, d'où l'importance d'un bon gestionnaire. +
+	De plus, la sauvegarde en favoris d'une URL, qu'il s'agisse d'un article ou d'une vidéo, est réalisée en conservant le titre, explicite quand c'est bien fait 😉, de la source : +
+	_"software design - Onion architecture compared to hexagonal - Stack Overflow"_ plutôt que _"\https://stackoverflow.com/questions/50039019/onion-architecture-compared-to-hexagonal/"_ (et les URLs brutes de Stackoverflow sont déjà très lisibles)
+
+* Les *sites de streaming tech* : une grosse majorité sont sur *Twitch* aujourd'hui, mais TikTok pousse...
+
+* *RSS Reader* (un agrégateur de flux RSS)
+	** Feedly
+		*** Feedly dispose d'un algo de tri (de sélection de flux qui devraient vous intéresser) qui apparemment marche plutôt bien
+
+* *application de prise de notes*
+	** le truc qu'on a sur son Smartphone, pour l'avoir (presque) tout le temps avec soi. +
+	Vous entendez un truc génial en podcast, ou lors d'un évènement pas prévu ? Vous n'avez pas votre laptop avec vous pour directement mettre à jour votre base de connaissance ? +
+	Surtout ne faites pas "rien" en vous disant que vous allez retenir l'info jusqu'au soir où vous pourrez prendre de meilleures notes. +
+	Sortez *Keep*, un *Google Doc*, *Notion* (mais méfiez-vous des outils qui annoncent qu'ils font tout "bien"...), *Obsidian* ou autre et rentrez quelques mots clés, et si vous êtes seuls (durant votre footing par exemple) passez en *dictée vocale* pour gagnez du temps.
+	** Un "bon vieux doc" Google Drive plutôt qu'un Google  Keep
+		*** Keep est très bien MAIS il est limité en taille de doc, et ici on cherche à avoir 1 doc plutôt que n afin de pouvoir tout retrouver facilement avec un ctrl+f
+	** Et ne pas hésiter à DICTER ses notes pour gagner du temps
+	** autre conseil, préfixez vos notes par la date de l'article
+		*** c'est d'autant plus vrai si vous lisez / écoutez dans le "désordre" (chronologiquement parlant)
+		*** cela vous permettra de toujours connaître la fraîcheur de vos notes, ce qui est très utile quand vous préparez un talk ou une étude
+	** Autre possibilité que l'on peut envisager, un *outil de mind mapping* (GitMind, XMind, etc.)
+
+* Liste de *Twitter* ou outils comme Tweetdeck
+	** PAR CONTRE, faites *attention aux recommandations automatiques*...
+
+Les *roadmaps* : sont apparues depuis quelques années (nostalgie v1 de Kamram)
+
+* *Les livres* : se faire sa sélection au fur et à mesure de sa veille
+	** On ne pourra PAS tout lire, mais on aura ainsi une liste toujours prête dans laquelle aller piocher. Il "suffira" de prioriser les lectures (oui je sais, là aussi, ce n'est pas forcément facile)
+	** Même si vous aimiez lire de "vrais" livres papier, dites-vous bien qu'un ebook / format numérique vous donne accès à une fonction de recherche hyper utile X mois plus tard quand vous vous direz "Mais oui, j'ai déjà entendu parler de ça dans ce livre, mais où est-ce dans les 600 pages..."
+
+* *Discord*, *Slack*, ou un autre "bon" réseau social via lequel on peut facilement échanger avec les personnes qui vont avoir l'information que l'on cherche
+	** et pour cela les salons vocaux de Discord sont top !
+
+* Les *sites tech* : HackerNews, Medium, dev.to, InfoQ, DZone (et ses Refcardz), etc.
+	** à trier par thème / catégorie ! De nouveau, tout l'intérêt d'un bon gestionnaire de favoris
+
+* Les *communautés techniques* et leurs *newsletters*
+	** voir https://blog.link-value.fr/partage-et-veille-technologique-top-des-communautes-tech-937b2545abae
+	** Paris JUG, GreenIT.fr, Afup, PerfUG, etc.
+
+* Les *grandes études annuelles sur la population IT* : Stack Overflow survey, Malt Tech Trends, Enquête CodinGame
+
+* Les *indices de popularité* comme le *TIOBE* ou le *PYPL*
+
+* Les sites de tendances, cabinets de conseil publiant des études comme *Gartner* (Magic Quadrant) et *Forrester* (Wave analysis)
+* Les *"radars"*: Technology radar de ThoughtWorks, radar CNCF, etc.
+
+* *Google Trends* !
+
+* Les *repo Git* (via GitHub, GitLab, etc.)
+
+* Les *MOOCs* : *Udemy*, *Pluralsight* (je préfère Udemy depuis quelques années pour le système de "je paye ce qui m'intéresse" et la mise à jour des cours que je trouve plus régulière sur cette plateforme), Coursera, OpenClassrooms, etc.
+
+* Conférences et MeetUps
+	** l'agenda d'Aurélie VACHE, contribuez également ! https://github.com/scraly/developers-conferences-agenda
+	** les conférences annuelles : Devoxx, DevFest, MixIT, etc.
+	** MeetUps : ParisJUG, PerfUG, etc.
+
+[WARNING]
+====
+On est vide noyé sous le flux d'informations, même en s'organisant bien. +
+DONC, ce qu'il est très important de garder en tête : 
+
+	* on ne peut PAS tout suivre, il faut FILTRER et apprendre à *lâcher prise*
+		** c'est le 3e article que je lis sur le sujet ? Ai-je VRAIMENT besoin de plus ?
+		** importance de se fixer une *LIMITE* (3 article et je passe à la suite)
+	* Par moment, quand on a identifié une bonne source pour un domaine, on RESTE dessus et on arrête de chercher ailleurs afin de pouvoir se concentrer (au moins un certain temps) sur cette source. +
+	-> Cela permet d'éviter de se disperser
+====
+
+== Etre capable de retrouver l'info intéressante
+
+* se créer sa propre base de connaissance 
+	** voir mon article de Devoxx France 2022 ou le repo associé
+
+== La méthode ou comment ne PAS se noyer
+
+* *Vous ne pourrez PAS suivre tous les domaines*. Cela semble évident mais la tentation peut être tellement fortement d'aller "jeter un coup d'oeil partout et nulle part" qu'il faut absolument arriver à s'en convaincre VRAIMENT. +
+Etre intéressé par plein de choses est une bonne chose, vouloir toutes les connaître et les suivre une MAUVAISE : ce n'est tout simplement pas humain, y a pas le temps ! +
+Vous devez avoir bien conscience qu'il faut "lâcher prise" sur certains sujets, que vous ne verrez peut-être jamais, même s'ils avaient retenu votre attention.
+
+* Donc, on commence par faire une *sélection* des domaines et sujets que l'on souhaite suivre : 
+	** certains liés directement à notre travail du moment
+	** d'autres liés à nos centres d'intérêts *indépendamment du travail*
+	** certains tout simplement PAS PREVUS. Et ces derniers sont de loin les plus dangereux, ce sont eux que l'on contrôle le moins. +
+	Comme on dit "attention ça brûle !"
+
+Restez raisonnables quant aux nombres de domaines retenus. +
+Il y a un compromis à trouver entre se spécialiser sur un sujet, et réaliser une veille généraliste permettant d'avoir une bonne vision du marché. +
+
+* Autre conseil, sur une période de temps, essayer de garder un thème commun à votre veille. +
+Si l'architecture microservices vous intéresse, vous pouvez étendre à l'architecture hexagonale, au DDD, mais pas forcément à l'approche hybride du développement mobile en Flutter 😅 
+
+Et de manière générale, mais surtout pour les sujets "non prévus" :
+
+[NOTE]
+====
+La veille technologique est une chose majoritairement réalisée sur votre temps libre (sauf si vous avez beaucoup de chance), donc, *ne vous oubliez pas*, et ne faites pas l'impasse sur les sujets qui vous intéresse VOUS, même s'ils n'ont pas de rapport avec votre job du moment.
+Votre veille doit vous plaire, pas vous dégoutter 🙂 
+====
+
+* montagne / l'amont lâcher prise temps limite
+
+* Gagner du temps, la veille peut se faire presque partout et n'importe quand : cuisine, jardinage, bricolage, etc.
+	** durant toutes les tâches "mécaniques", n'hésitez pas à vous lancer un bon podcast
+* Servez-vous de votre routine : 
+	** le retour d'école de la petite en trottinette ? Podcast !
+	** 
+
+== Les ressources
+
+* Livres
+* Podcasts
+* MOOC
+	** Actuellement Udemy plus que Pluralsight. +
+	Avec Udemy on achète les cours à l'unité, avec de très nombreuses périodes de "promo" dans l'année qui mettent presque tous les cours à ~10 ou 11€. +
+	Pluralsight fonctionne avec un abonnement annuel qui donne accès à l'ensemble de ses cours. +
+	Malheureusement, j'ai l'impression que ce système rend difficile la rétribution des auteurs (comment répartir les revenus de l'abonnement unique entre les auteurs ?). +
+	Ces derniers sont donc moins motivés que sur un MOOC où l'on paye à l'unité, et où un auteur dont le cours est reconnu verra un volume croissant d'étudiants le rejoindre, ce qui augmentera d'autant ses revenus, et lui donner d'autant plus l'envie de tenir son cours à jour afin de conserver ou d'améliorer son audience (avec les revenus qui vont avec 😉)
+	** Coursera (rechercher la ref du fantastique cours de ML)
+* vidéos YouTube
+	** Je vous rappelle mon conseil : sauvegardez-lez en favoris dans votre navigateur, le gestionnaire de favoris de YouTube n'est vraiment q'un "gros sac" vite inutile.
+* Twitter 
+	** là aussi, faites une sélection des personnes à suivre en fonction des sujets d'intérêts que vous avez retenus
+		*** Et n'hésitez pas à SUPPRIMER des abonnements qui ne correspondent plus à vos besoins 😉 
+	** et faire des sous-sélections avec un outils comme Tweetdeck peut être utile
+
+== Votre base de connaissances
+
+* Pour les infos les plus intéressantes, prendre des notes et se créer sa base de connaissance.
+	** les infos les plus intéressantes, SURTOUT PAS toutes les infos !
+
+== Suggestions
+
+* Proposer à Cédric de participer sur le thème de la base de connaissance ? A réfléchir !
+
+== Ressources pour le talk
+
+* Plusieurs talks parlent également de veille tech ces derniers temps : 
+	** Veille technologique, l'épreuve du temps et comment s'y préparer - Marc Friederich : https://www.youtube.com/watch?v=7N2jfUncxQc (slides : https://zufrieden.github.io/slides-veille-tech-webmardi/)
+		*** Très bon talk : notion d'Ikigai, workflow de veille
+	** DevFest Nantes 2022 - Apprendre en continue avec sa veille technologique : https://www.youtube.com/watch?v=WLuR4OVudqs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
