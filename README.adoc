@@ -368,12 +368,13 @@ Votre base de connaissance est un moyen simple de partager votre veille, et de d
 == Ressources parlant de veille technologique
 
 * Plusieurs talks parlent également de veille tech ces derniers temps : 
-	** Veille technologique, l'épreuve du temps et comment s'y préparer - Marc Friederich : https://www.youtube.com/watch?v=7N2jfUncxQc (slides : https://zufrieden.github.io/slides-veille-tech-webmardi/)
+	** 2022/10 : Veille technologique, l'épreuve du temps et comment s'y préparer - Marc Friederich : https://www.youtube.com/watch?v=7N2jfUncxQc (slides : https://zufrieden.github.io/slides-veille-tech-webmardi/)
 		*** Très bon talk : notion d'Ikigai, workflow de veille
 	** DevFest Nantes 2022 - "Voyage au centre de la veille : Apprendre en continue avec sa veille technologique" : https://www.youtube.com/watch?v=WLuR4OVudqs
 		*** je l'ai découverte récemment, mais super conf
 		*** Leur récap final est top : https://youtu.be/WLuR4OVudqs?t=2689 +
 		image:process-veille-complet.jpg[]
+	** On note beaucoup de similarités entre ces 2 talks
 
 
 

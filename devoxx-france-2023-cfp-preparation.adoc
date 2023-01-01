@@ -32,7 +32,7 @@ toc::[]
 
 == Overview
 
-Proposition de sujet (TYPE) pour Devoxx France 2023
+Proposition de sujet (conférence) pour Devoxx France 2023
 
 Talk sur comment bien se préparer à un salon technologique : ce qu'il est bon d'en retirer, les pièges à éviter, etc.
 
@@ -42,9 +42,10 @@ Talk sur comment bien se préparer à un salon technologique : ce qu'il est bon 
 
 *Tags* : 
 
-    * Community
-    * Share
-    * Notes
+    * methodology
+    * discovery
+    * experience
+    * tools
 
 == Recherche du nom de la conférence
 
@@ -52,15 +53,18 @@ Talk sur comment bien se préparer à un salon technologique : ce qu'il est bon 
 * Veille technologique, ne soyez pas son esclave
 * Veille technologique : s'organiser pour la maîtriser (PAS MAL)
 * Veille technologique : réussir à s'organiser pour apprendre en continu
-* *Pipeline de veille technologique : je veille donc je suis (et je suis bien !)*
+* Pipeline de veille technologique : je veille donc je suis (et je suis BIEN 😌)
+* *Pipeline de veille technologique : je veille donc je suis (et je suis zen 😌)*
 
 Brainstorming : 
 
     * conjuguer travail et passion
     * Un titre parlant du pipeline de veille ? +
     Parler de "VeillOPS" -> non, c'est nul... 😓
-    * *Pipeline de veille technologique : je veille donc je suis (et je suis bien !)* 
+    * *Pipeline de veille technologique : je veille donc je suis (et je suis bien 😌)* 
         ** -> AH YES ! TOP, on garde
+        ** avec l'emoji "relieved face"
+        ** ou celle du yoga ? 🧘
 
 == Abstract
 
@@ -88,8 +92,8 @@ Draft :
 
 * NON : Les personnes à suivre et les types de media à notre disposition sont nombreux, certains sont mis à jour plusieurs fois par jour, tant et si bien qu'il est facile de se noyer dans le volume d'information et de finir par laisser tomber écoeuré.
 
-* C'est tout l'intérêt de ce talk, vous expliquez comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
-* C'est tout l'objectif de ce talk, vous expliquez comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
+* C'est tout l'intérêt de ce talk, vous expliquer comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
+* C'est tout l'objectif de ce talk, vous expliquer comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
 
 * Nous parlerons entre autres des moyens de sélectionner ses sujets de veille, comment les organiser et au final comment les transformer en une véritable base de connaissances qui vous suivra partout au quotidien.
 
@@ -103,56 +107,54 @@ Se tenir au courant des dernières évolutions technologiques est une nécessit�
 Or, dans notre monde hyper connecté, trouver la BONNE information, sans se noyer, y passer sa vie et en gardant du plaisir à le faire, peut vite devenir un vrai casse-tête.
 De plus, une fois trouvée, il serait bon de rendre cette information exploitable et non oubliée au bout de 2 semaines...
 
-C'est tout l'objectif de ce talk, vous expliquez comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
+C'est tout l'objectif de ce talk, vous expliquer comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
 Nous parlerons entre autres des moyens de sélectionner ses sujets de veille, comment les organiser et au final comment les transformer en une véritable base de connaissances qui vous suivra partout au quotidien.
 ----
 
 .version finale - markdown
 ----
-Se tenir au courant des dernières évolutions technologiques est une nécessité dans nos métiers de la Tech.
-Or, dans notre monde hyper connecté, trouver la **BONNE** information, **sans se noyer**, y passer sa vie et en gardant du **plaisir** à le faire, peut vite devenir un vrai casse-tête.
-De plus, une fois trouvée, il serait bon de rendre cette information exploitable et non oubliée au bout de 2 semaines...
+Se tenir au courant des dernières évolutions technologiques est une nécessité dans nos métiers de la Tech.  
+Or, dans notre monde hyper connecté, trouver la **BONNE** information, **sans se noyer**, y passer sa vie et en gardant du **plaisir** à le faire, peut vite devenir un vrai casse-tête.  
+De plus, une fois trouvée, il serait bon de **rendre cette information exploitable** et non oubliée au bout de 2 semaines...
 
-C'est tout l'objectif de ce talk, vous expliquez comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
-Nous parlerons entre autres des moyens de sélectionner ses sujets de veille, comment les organiser et au final comment les transformer en une véritable base de connaissances qui vous suivra partout au quotidien.
+C'est tout l'objectif de ce talk, vous expliquer comment, sans se faire mal, mettre en place un vrai petit **"pipeline" de veille technologique** vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉  
+Nous parlerons entre autres des moyens de **sélectionner** ses sujets de veille, comment les **organiser** et au final comment les transformer en une véritable **base de connaissances** qui vous suivra partout au quotidien.
 ----
 
 == Message pour le comité
 
-Le sujet de la veille technologique et comment ne pas la "subir" mais bien au contraire la rendre bénéfique et le plus utile possible me tient à coeur depuis des années.
-Il s'agit d'un sujet dont je parle depuis des années aux réunions de la communauté technique de Softeam, et j'ai dernièrement décidé de formaliser davantage les choses pour en faire un talk.
-
-Celui-ci s'inscrit d'ailleurs dans la continuité de l'article que j'avais écrit en 2021 pour le blog de Devoxx France, "Comment bien préparer sa participation à Devoxx France" (https://www.devoxx.fr/2022/03/14/comment-bien-preparer-sa-participation-a-devoxx-france/) et où j'avais commencer la base de connaissances dans laquelle je persiste mes notes de conférences.
-
-
-
-
-
 .version finale
 ----
+Le sujet de la veille technologique et comment ne pas la "subir" mais bien au contraire la rendre "saine" et la plus utile possible me tient à coeur depuis longtemps.
+J'en parle et fais des REX dessus depuis des années aux réunions de la communauté technique de Softeam, car j'ai pu constater que rares étaient les personnes réellement "sereines" dans l'exercice de leur veille : sans une bonne méthodologie, on se retrouve vite noyé dans le flux d'information et devant une masse de travail qui tue tout plaisir et nous fait jeter l'éponge.
+J'ai décidé dernièrement de formaliser davantage mes conseils et retours d'expérience pour en faire un talk.
 
+Celui-ci s'inscrit d'ailleurs dans la continuité de l'article que j'avais écrit en 2021 pour le blog de Devoxx France, "Comment bien préparer sa participation à Devoxx France" (https://www.devoxx.fr/2022/03/14/comment-bien-preparer-sa-participation-a-devoxx-france/), où j'avais déjà présenté la base de connaissances dans laquelle je persiste mes notes de conférences (https://github.com/Ardemius/meetups-talks-conferences-notes)
 
+L'idée est ici de présenter la méthodologie que j'ai mise en place avec le temps pour organiser ma captation d'information.
+Je suis aujourd'hui principalement placé en tant qu'architecte, maîtriser ma récupération de l'information et son exploitation sont mon quotidien.
+J'en suis arrivé à la conclusion qu'il y avait une forte analogie entre la façon de gérer sa veille et les pipelines de traitement de la "data" : ingérer / traiter / analyser et persister deviennent sélectionner / consulter / exploiter et persister.
+
+Cette méthodologie m'a permis d'arriver à certaine "plénitude" dans ma veille : je sais qu'elle est soutenable, super utile et je trouve du plaisir à la faire.
+
+J'ai déjà pu en partie présenter le contenu de ce talk à ma communauté technique, et ai obtenu de très bons retours : on "démystifie" les choses, on montre qu'un résultat tangible peut être obtenu sans y sacrifier sa vie, et qu'on peut même y prendre du plaisir (ce qui est un retour qui fait vraiment du bien 🙂)
 ----
 
 .markdown
 ----
-Je donne ce talk depuis plusieurs années à ma communauté technique, et je constate qu'il est toujours utile (et apprécié ! 😉 ) à chaque nouvelle session.
+Le sujet de la veille technologique et comment **ne pas la "subir"** mais bien au contraire la rendre **"saine"** et la plus **utile** possible me tient à coeur depuis longtemps.  
+J'en parle et fais des REX dessus depuis des années aux réunions de la communauté technique de Softeam, car j'ai pu constater que rares étaient les personnes réellement "sereines" dans l'exercice de leur veille : sans une bonne méthodologie, on se retrouve vite noyé dans le flux d'information et devant une masse de travail qui tue tout plaisir et nous fait jeter l'éponge.  
+J'ai décidé dernièrement de formaliser davantage mes conseils et retours d'expérience pour en faire un talk.
 
-Dans toutes les conférences où je me rends (ou presque), je vois beaucoup de personnes qui découvrent le programme au dernier moment, prennent des notes qu'ils n'arriveront pas à relire sur un petit carnet qui sera oublié dans les jours ou semaines qui suivront...
-Ce talk a pour but de montrer qu'avec un minimum d'organisation, et un effort très raisonnable, on peut tirer beaucoup plus d'un grand salon technologique.
+Celui-ci s'inscrit d'ailleurs dans la continuité de l'article que j'avais écrit en 2021 pour le blog de Devoxx France, "Comment bien préparer sa participation à Devoxx France" (https://www.devoxx.fr/2022/03/14/comment-bien-preparer-sa-participation-a-devoxx-france/), où j'avais déjà présenté la **base de connaissances** dans laquelle je persiste mes notes de conférences (https://github.com/Ardemius/meetups-talks-conferences-notes)
 
-J'applique les conseils que je donne depuis des années, et la **base de connaissances** qui en découle est disponible sur GitHub :
-[https://github.com/Ardemius/meetups-talks-conferences-notes](https://github.com/Ardemius/meetups-talks-conferences-notes)
+L'idée est ici de **présenter la méthodologie** que j'ai mise en place avec le temps pour organiser ma captation d'information.  
+Je suis aujourd'hui principalement placé en tant qu'architecte, maîtriser ma récupération de l'information et son exploitation sont mon quotidien.  
+J'en suis arrivé à la conclusion qu'il y avait une forte **analogie entre la façon de gérer sa veille et les pipelines de traitement de la "data"** : ingérer / traiter / analyser et persister deviennent sélectionner / consulter / exploiter et persister.
 
-Presque tous les collègues à qui je l'ai montrée aimeraient disposer de quelque chose d'équivalent, MAIS pensent que c'est **trop de travail**.
-C'est très dommage car **ce n'est PAS le cas**, c'est ce que je montre dans ce talk 🙂
+Cette méthodologie m'a permis d'arriver à certaine "plénitude" dans ma veille : je sais qu'elle est **soutenable**, super **utile** et je trouve du **plaisir** à la faire.
 
-Mes **slides** sont déjà prêts, et mis à jour pour l'occasion.
-Ils sont disponibles sur GitHub : [https://ardemius.github.io/bien-preparer-un-salon-technologique/slides.html](https://ardemius.github.io/bien-preparer-un-salon-technologique/slides.html)
-
-(Si le code des slides vous intéresse, voici le repo : [https://github.com/Ardemius/bien-preparer-un-salon-technologique](https://github.com/Ardemius/bien-preparer-un-salon-technologique))
-
-Merci d'avance pour vos retours 🙂 
+J'ai déjà pu en partie présenter le contenu de ce talk à ma communauté technique, et ai obtenu de très bons retours : on "démystifie" les choses, on montre qu'un résultat tangible peut être obtenu sans y sacrifier sa vie, et qu'on peut même y prendre du plaisir (ce qui est un retour qui fait vraiment du bien 🙂)
 ----
 
 
