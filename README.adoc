@@ -150,7 +150,7 @@ De quels outils a-t-on besoin pour organiser et persister sa veille ?
 	Vous entendez un truc génial en podcast, ou lors d'un évènement pas prévu ? Vous n'avez pas votre laptop avec vous pour directement mettre à jour votre base de connaissance ? +
 	Surtout ne faites pas "rien" en vous disant que vous allez retenir l'info jusqu'au soir où vous pourrez prendre de meilleures notes. +
 	Sortez *Keep*, un *Google Doc*, *Notion* (mais méfiez-vous des outils qui annoncent qu'ils font tout "bien"...), *Obsidian* ou autre et rentrez quelques mots clés, et si vous êtes seuls (durant votre footing par exemple) passez en *dictée vocale* pour gagnez du temps.
-	** Un "bon vieux doc" Google Drive plutôt qu'un Google  Keep
+	** *Un "bon vieux doc" Google Doc sur Drive* plutôt qu'un Google  Keep
 		*** Keep est très bien MAIS il est limité en taille de doc, et ici on cherche à avoir 1 doc plutôt que n afin de pouvoir tout retrouver facilement avec un ctrl+f
 	** Et ne pas hésiter à DICTER (dictée vocale) ses notes pour gagner du temps
 	** autre conseil, préfixez vos notes par la date de l'article
@@ -174,9 +174,13 @@ Les *roadmaps* : sont apparues depuis quelques années (nostalgie v1 de Kamram)
 * Les *sites tech* : HackerNews, Medium, dev.to, InfoQ, DZone (et ses Refcardz), etc.
 	** à trier par thème / catégorie ! De nouveau, tout l'intérêt d'un bon gestionnaire de favoris
 
-* Les *communautés techniques* et leurs *newsletters*
+* Les *communautés techniques*
 	** voir https://blog.link-value.fr/partage-et-veille-technologique-top-des-communautes-tech-937b2545abae
 	** Paris JUG, GreenIT.fr, Afup, PerfUG, etc.
+* et leurs *newsletters* !
+
+* *Book club* : Tech Rocks, ou notre propre Book Club à Softeam 😀 
+
 
 * Les *grandes études annuelles sur la population IT* : Stack Overflow survey, Malt Tech Trends, Enquête CodinGame
 
@@ -191,10 +195,12 @@ Les *roadmaps* : sont apparues depuis quelques années (nostalgie v1 de Kamram)
 
 * Les *MOOCs* : *Udemy*, *Pluralsight* (je préfère Udemy depuis quelques années pour le système de "je paye ce qui m'intéresse" et la mise à jour des cours que je trouve plus régulière sur cette plateforme), Coursera, OpenClassrooms, etc.
 
-* Conférences et MeetUps
+* *Conférences* et *MeetUps* : voir des gens, *RESEAUTER*
 	** l'agenda d'Aurélie VACHE, contribuez également ! https://github.com/scraly/developers-conferences-agenda
 	** les conférences annuelles : Devoxx, DevFest, MixIT, etc.
 	** MeetUps : ParisJUG, PerfUG, etc.
+	** De nouveau cf mon article Devoxx, assister à des MeetUps permet de *rencontrer des gens*. +
+	*Nouer des liens avec les bonnes personnes*, créer de bonnes connexions, vaut par moment toutes les lectures du monde pour apprendre quelque chose de nouveau, ou se sortir d'une galère !
 
 [WARNING]
 ====
@@ -211,7 +217,7 @@ DONC, ce qu'il est très important de garder en tête :
 
 == Etre capable de retrouver l'info intéressante
 
-* se créer sa propre base de connaissance 
+* se créer sa propre *base de connaissance* 
 	** voir mon article de Devoxx France 2022 ou le repo associé
 
 == La méthode ou comment ne PAS se noyer
@@ -220,7 +226,7 @@ DONC, ce qu'il est très important de garder en tête :
 Etre intéressé par plein de choses est une bonne chose, vouloir toutes les connaître et les suivre une MAUVAISE : ce n'est tout simplement pas humain, y a pas le temps ! +
 Vous devez avoir bien conscience qu'il faut "lâcher prise" sur certains sujets, que vous ne verrez peut-être jamais, même s'ils avaient retenu votre attention.
 
-* Donc, on commence par faire une *sélection* des domaines et sujets que l'on souhaite suivre : 
+* Donc, on commence par faire une *sélection* des domaines et sujets que l'on souhaite suivre (en gros, se fixer des *objectifs*) : 
 	** certains liés directement à notre travail du moment
 	** d'autres liés à nos centres d'intérêts *indépendamment du travail*
 	** certains tout simplement PAS PREVUS. Et ces derniers sont de loin les plus dangereux, ce sont eux que l'on contrôle le moins. +
@@ -237,7 +243,7 @@ Et de manière générale, mais surtout pour les sujets "non prévus" :
 [NOTE]
 ====
 La veille technologique est une chose majoritairement réalisée sur votre temps libre (sauf si vous avez beaucoup de chance), donc, *ne vous oubliez pas*, et ne faites pas l'impasse sur les sujets qui vous intéresse VOUS, même s'ils n'ont pas de rapport avec votre job du moment.
-Votre veille doit vous plaire, pas vous dégoutter 🙂 
+Votre veille doit vous *PLAIRE*, pas vous dégoûter 🙂 
 ====
 
 * montagne / l'amont lâcher prise temps limite
@@ -246,7 +252,6 @@ Votre veille doit vous plaire, pas vous dégoutter 🙂
 	** durant toutes les tâches "mécaniques", n'hésitez pas à vous lancer un bon podcast
 * Servez-vous de votre routine : 
 	** le retour d'école de la petite en trottinette ? Podcast !
-	** 
 
 == Le pipeline de veille technologique
 
@@ -327,7 +332,7 @@ TIP: Via une dictée vocale, on peut dire *"virgule"* et *"à la ligne"* qui per
 * Persister vos informations ne doit pas être "galère", ou le moins possible
 	** et là, cf mon explication dans l'article Devoxx
 
-* PARTAGER : Il est dommage que ce que l'on a appris ne profite qu'à soi (le côté "ermite" / "professeur Tournesol"). +
+* *PARTAGER* : Il est dommage que ce que l'on a appris ne profite qu'à soi (le côté "ermite" / "professeur Tournesol"). +
 Votre base de connaissance est un moyen simple de partager votre veille, et de donner de l'info autour de vous (travail ou autre). +
 -> "tiens, j'ai pris des notes sur ce sujet avec de mémoire de bonnes ressources, c'est dans mon repo GitHub"
 
@@ -365,7 +370,10 @@ Votre base de connaissance est un moyen simple de partager votre veille, et de d
 * Plusieurs talks parlent également de veille tech ces derniers temps : 
 	** Veille technologique, l'épreuve du temps et comment s'y préparer - Marc Friederich : https://www.youtube.com/watch?v=7N2jfUncxQc (slides : https://zufrieden.github.io/slides-veille-tech-webmardi/)
 		*** Très bon talk : notion d'Ikigai, workflow de veille
-	** DevFest Nantes 2022 - Apprendre en continue avec sa veille technologique : https://www.youtube.com/watch?v=WLuR4OVudqs
+	** DevFest Nantes 2022 - "Voyage au centre de la veille : Apprendre en continue avec sa veille technologique" : https://www.youtube.com/watch?v=WLuR4OVudqs
+		*** je l'ai découverte récemment, mais super conf
+		*** Leur récap final est top : https://youtu.be/WLuR4OVudqs?t=2689 +
+		image:process-veille-complet.jpg[]
 
 
 

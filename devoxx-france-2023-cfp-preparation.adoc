@@ -52,30 +52,17 @@ Talk sur comment bien se préparer à un salon technologique : ce qu'il est bon 
 * Veille technologique, ne soyez pas son esclave
 * Veille technologique : s'organiser pour la maîtriser (PAS MAL)
 * Veille technologique : réussir à s'organiser pour apprendre en continu
-* *Pipeline de veille technologique : je veille donc je suis, et je suis bien !*
+* *Pipeline de veille technologique : je veille donc je suis (et je suis bien !)*
 
 Brainstorming : 
 
     * conjuguer travail et passion
     * Un titre parlant du pipeline de veille ? +
     Parler de "VeillOPS" -> non, c'est nul... 😓
-    * *Pipeline de veille technologique : je veille donc je suis, et je suis bien !* 
+    * *Pipeline de veille technologique : je veille donc je suis (et je suis bien !)* 
         ** -> AH YES ! TOP, on garde
 
 == Abstract
-
-Parler du pipeline de veille
-
-minimum de discipline mais maximum de plaisir ET d'utilité
-amélioration continue
-
-
-
-
-
-
-
-
 
 Talk ayant pour objectif d'expliquer comment réaliser une veille technologique efficace : 
 
@@ -83,55 +70,69 @@ Talk ayant pour objectif d'expliquer comment réaliser une veille technologique 
     * agréable à réaliser
     * et PAS éphémère (on prend des notes !)
 
+Brainstorming : 
 
+    * Parler du pipeline de veille
+    * minimum de discipline mais maximum de plaisir ET d'utilité
+    * amélioration continue
 
-    * ce qu’il est bon d’en retirer
-    * les "pièges" à éviter
-    * la préparation en amont du salon
+Draft : 
 
-Un Devoxx France, ce sont plus de 200 conférences, et des dizaines de sociétés présentes.
+* Se tenir au courant des dernières évolutions technologiques est une nécessité dans nos métiers de la Tech. +
 
-* Il est toujours possible d'y arriver les mains dans les poches, avec juste carnet et crayon, puis d'enchaîner les talks jusqu'au dernier jour, avant de finalement presque tout oublier quelques jours après...
-* Il est toujours possible d'aller à un grand salon comme Devoxx les mains dans les poches, avec peut-être juste un carnet et un crayon.
+* Or, si dans notre monde connecté trouver de l'information n'est pas difficile, trouver la BONNE information, celle qui vous est réellement utile, l'est nettement plus. +
+* Or, dans notre monde hyper connecté, trouver la BONNE information, sans se noyer, y passer sa vie et en gardant du plaisir à le faire, peut vite devenir un vrai casse-tête.
 
-* Mais il y aurait tellement mieux à faire pour tirer le maximum de ce type d'évènement, et faire en sorte qu'il vous serve encore plusieurs années plus tard.
+* De plus, c'est bien beau de trouver de l'information, mais encore faut-il rendre cette dernière utile et exploitable
+* De plus, une fois trouvée, il serait bon de rendre cette information exploitable et non oubliée au bout de 2 semaines...
 
-Au cours de ce talk, nous allons justement présenter plusieurs astuces d'organisation vous permettant d'arriver à ce résultat : 
+* NON : Les personnes à suivre et les types de media à notre disposition sont nombreux, certains sont mis à jour plusieurs fois par jour, tant et si bien qu'il est facile de se noyer dans le volume d'information et de finir par laisser tomber écoeuré.
 
-    * préparer son planning à l'avance, en isolant des thèmes et en gardant du temps pour aller discuter avec les experts et sociétés présentes
-    * prendre des notes rapidement et efficacement, et les persister en ligne de façon à se bâtir sa propre base de connaissance
-    * rédiger une synthèse au fur et à mesure des talks
-    * et bien d'autres encore
+* C'est tout l'intérêt de ce talk, vous expliquez comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
+* C'est tout l'objectif de ce talk, vous expliquez comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
+
+* Nous parlerons entre autres des moyens de sélectionner ses sujets de veille, comment les organiser et au final comment les transformer en une véritable base de connaissances qui vous suivra partout au quotidien.
+
+* Dans cet article, je vais vous présenter mes astuces et mes ressources pour garder le contrôle sur l'information, afin de réussir votre veille technologique : 
+	** XXX
+	** et bien d'autres encore 😉
 
 .version finale
 ----
-Un Devoxx France, ce sont plus de 200 conférences, et des dizaines de sociétés présentes.  
-Il est toujours possible d'y arriver les mains dans les poches, avec juste carnet et crayon, puis d'enchaîner les talks jusqu'au dernier jour, avant de finalement presque tout oublier quelques jours après...  
-Mais il y aurait tellement mieux à faire pour tirer le maximum de ce type d'évènement, et faire en sorte qu'il vous serve encore plusieurs années plus tard.
+Se tenir au courant des dernières évolutions technologiques est une nécessité dans nos métiers de la Tech.
+Or, dans notre monde hyper connecté, trouver la BONNE information, sans se noyer, y passer sa vie et en gardant du plaisir à le faire, peut vite devenir un vrai casse-tête.
+De plus, une fois trouvée, il serait bon de rendre cette information exploitable et non oubliée au bout de 2 semaines...
 
-Au cours de ce talk, nous allons justement présenter plusieurs astuces d'organisation vous permettant d'arriver à ce résultat : 
-
-    * préparer son planning à l'avance, en isolant des thèmes et en gardant du temps pour aller discuter avec les experts et sociétés présentes
-    * prendre des notes rapidement et efficacement, et les persister en ligne de façon à se bâtir sa propre base de connaissances
-    * rédiger une synthèse au fur et à mesure des talks
-    * et bien d'autres encore 😉
+C'est tout l'objectif de ce talk, vous expliquez comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
+Nous parlerons entre autres des moyens de sélectionner ses sujets de veille, comment les organiser et au final comment les transformer en une véritable base de connaissances qui vous suivra partout au quotidien.
 ----
 
 .version finale - markdown
 ----
-Un Devoxx France, ce sont plus de **200 conférences**, et des **dizaines de sociétés présentes**.  
-Il est toujours possible d'y arriver **les mains dans les poches**, avec juste carnet et crayon, puis d'enchaîner les talks jusqu'au dernier jour, avant de finalement presque **tout oublier quelques jours après**...  
-Mais il y aurait tellement **mieux à faire** pour tirer le maximum de ce type d'évènement, et faire en sorte qu'il vous **serve encore plusieurs années plus tard**.
+Se tenir au courant des dernières évolutions technologiques est une nécessité dans nos métiers de la Tech.
+Or, dans notre monde hyper connecté, trouver la **BONNE** information, **sans se noyer**, y passer sa vie et en gardant du **plaisir** à le faire, peut vite devenir un vrai casse-tête.
+De plus, une fois trouvée, il serait bon de rendre cette information exploitable et non oubliée au bout de 2 semaines...
 
-Au cours de ce talk, nous allons justement présenter plusieurs **astuces d'organisation** vous permettant d'arriver à ce résultat :
-
- - **préparer son planning** à l'avance, en isolant des thèmes et en gardant du temps pour aller discuter avec les experts et sociétés présentes
- - **prendre des notes rapidement et efficacement**, et les persister en ligne de façon à se bâtir **sa propre base de connaissances** 
- - rédiger une **synthèse** au fur et à mesure des talks 
- - et bien d'autres encore 😉
+C'est tout l'objectif de ce talk, vous expliquez comment, sans se faire mal, mettre en place un vrai petit "pipeline" de veille technologique vous permettant de réaliser une veille utile tout en conservant le plaisir d'avoir le nez dans la tech 😉
+Nous parlerons entre autres des moyens de sélectionner ses sujets de veille, comment les organiser et au final comment les transformer en une véritable base de connaissances qui vous suivra partout au quotidien.
 ----
 
 == Message pour le comité
+
+Le sujet de la veille technologique et comment ne pas la "subir" mais bien au contraire la rendre bénéfique et le plus utile possible me tient à coeur depuis des années.
+Il s'agit d'un sujet dont je parle depuis des années aux réunions de la communauté technique de Softeam, et j'ai dernièrement décidé de formaliser davantage les choses pour en faire un talk.
+
+Celui-ci s'inscrit d'ailleurs dans la continuité de l'article que j'avais écrit en 2021 pour le blog de Devoxx France, "Comment bien préparer sa participation à Devoxx France" (https://www.devoxx.fr/2022/03/14/comment-bien-preparer-sa-participation-a-devoxx-france/) et où j'avais commencer la base de connaissances dans laquelle je persiste mes notes de conférences.
+
+
+
+
+
+.version finale
+----
+
+
+----
 
 .markdown
 ----
