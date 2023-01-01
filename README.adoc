@@ -65,7 +65,7 @@ Attention, on attaque !
 	** tâche / action demandée dans le cadre de son travail : on doit ramener certaines infos et les présenter à son équipe / à des décideurs
 
 	** parce que ça nous plaît ! Une partie de sa veille doit venir de SOI (*veille dite personnelle*), il ne faut surtout pas s'oublier et "sombrer" dans une veille uniquement dédiée au "travail demandé / commandé" -> plus de plaisir et la déprime ne doit pas être loin...
-		*** La veille tech doit vous permettre de *briser le "cercle de l'ennui"* et vous apporter du *fun*
+		*** La veille tech doit vous permettre de *briser le "cercle de l'ennui"* et vous apporter du *plaisir*, du *FUN*
 		*** cf https://www.youtube.com/watch?v=7N2jfUncxQc, notion d'*Ikigai* que votre veille doit servir +
 		image:ikigai.jpg[]
 
@@ -152,11 +152,12 @@ De quels outils a-t-on besoin pour organiser et persister sa veille ?
 	Sortez *Keep*, un *Google Doc*, *Notion* (mais méfiez-vous des outils qui annoncent qu'ils font tout "bien"...), *Obsidian* ou autre et rentrez quelques mots clés, et si vous êtes seuls (durant votre footing par exemple) passez en *dictée vocale* pour gagnez du temps.
 	** Un "bon vieux doc" Google Drive plutôt qu'un Google  Keep
 		*** Keep est très bien MAIS il est limité en taille de doc, et ici on cherche à avoir 1 doc plutôt que n afin de pouvoir tout retrouver facilement avec un ctrl+f
-	** Et ne pas hésiter à DICTER ses notes pour gagner du temps
+	** Et ne pas hésiter à DICTER (dictée vocale) ses notes pour gagner du temps
 	** autre conseil, préfixez vos notes par la date de l'article
 		*** c'est d'autant plus vrai si vous lisez / écoutez dans le "désordre" (chronologiquement parlant)
 		*** cela vous permettra de toujours connaître la fraîcheur de vos notes, ce qui est très utile quand vous préparez un talk ou une étude
 	** Autre possibilité que l'on peut envisager, un *outil de mind mapping* (GitMind, XMind, etc.)
+		*** *Obsidian* permet également de créer des connexions / associations entre vos notes comme les outils de mind mapping
 
 * Liste de *Twitter* ou outils comme Tweetdeck
 	** PAR CONTRE, faites *attention aux recommandations automatiques*...
@@ -277,7 +278,7 @@ DANS LA PRISE DE NOTES JE CROIS ! +
 * Un constat important : il faut chercher à *persister l'information au moment où on la consulte* (lecture ou audio).
 	** ne surtout pas se dire que l'on va "s'en occuper le soir ou demain", car soyons honnêtes, malgré toute la bonne volonté du monde, c'est difficile, les tentations sont nombreuses de faire autre chose, et quand on y repensera on se dira souvent "mais qu'est-ce que je voulais noter déjà ?", et on ne fera rien... (ce serait une ENORME discipline personnelle)
 	** DONC, il faut persister les informations utile *sur le coup* : 
-		*** jardinage, cuisine ou autre et mains prises ? Dictée vocale !
+		*** jardinage, cuisine ou autre et mains prises ? Dictée vocale ! (pour vos PROPRES IDEES / REFLEXIONS)
 		*** toujours avoir déjà de prêt son outil de prise de notes (un simple Google Doc fait très bien l'affaire)
 
 * Exploiter et retravailler / *"proprifier"* uniquement *les informations les plus utiles* :
@@ -318,10 +319,17 @@ TIP: Via une dictée vocale, on peut dire *"virgule"* et *"à la ligne"* qui per
 
 === Exploiter / valoriser l'information
 
-* Pour les informations les plus utiles, un passage à la pratique permet de pousser sa compréhension / maîtrise des connaissances acquises : POC, projets, article de blog (REX)
+* Pour les informations les plus utiles, un *passage à la pratique* permet de *pousser sa compréhension* / maîtrise des connaissances acquises : POC, projets, article de blog (REX)
 
 * Et, toujours la même chose, *persistez* vos POC, projets et autres *dans votre base de connaissance*.
 	** de la sorte, vous améliorerez en continu votre base de connaissance, et en conséquence "votre propre valeur"
+
+* Persister vos informations ne doit pas être "galère", ou le moins possible
+	** et là, cf mon explication dans l'article Devoxx
+
+* PARTAGER : Il est dommage que ce que l'on a appris ne profite qu'à soi (le côté "ermite" / "professeur Tournesol"). +
+Votre base de connaissance est un moyen simple de partager votre veille, et de donner de l'info autour de vous (travail ou autre). +
+-> "tiens, j'ai pris des notes sur ce sujet avec de mémoire de bonnes ressources, c'est dans mon repo GitHub"
 
 == Les ressources
 
@@ -352,7 +360,7 @@ TIP: Via une dictée vocale, on peut dire *"virgule"* et *"à la ligne"* qui per
 
 * Proposer à Cédric de participer sur le thème de la base de connaissance ? A réfléchir !
 
-== Ressources pour le talk
+== Ressources parlant de veille technologique
 
 * Plusieurs talks parlent également de veille tech ces derniers temps : 
 	** Veille technologique, l'épreuve du temps et comment s'y préparer - Marc Friederich : https://www.youtube.com/watch?v=7N2jfUncxQc (slides : https://zufrieden.github.io/slides-veille-tech-webmardi/)
