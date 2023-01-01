@@ -36,7 +36,7 @@ Proposition de sujet (TYPE) pour Devoxx France 2023
 
 Talk sur comment bien se préparer à un salon technologique : ce qu'il est bon d'en retirer, les pièges à éviter, etc.
 
-*Thème principal* : Agilité, Méthodologie & Tests
+*Thème principal* : People & Culture, Soft Skills, Future of work, Innovation, Side projects
 
 *Niveau de la présentation* : Ouvert à tout niveau d'audience, débutant comme expert
 
@@ -52,10 +52,38 @@ Talk sur comment bien se préparer à un salon technologique : ce qu'il est bon 
 * Veille technologique, ne soyez pas son esclave
 * Veille technologique : s'organiser pour la maîtriser (PAS MAL)
 * Veille technologique : réussir à s'organiser pour apprendre en continu
+* *Pipeline de veille technologique : je veille donc je suis, et je suis bien !*
+
+Brainstorming : 
+
+    * conjuguer travail et passion
+    * Un titre parlant du pipeline de veille ? +
+    Parler de "VeillOPS" -> non, c'est nul... 😓
+    * *Pipeline de veille technologique : je veille donc je suis, et je suis bien !* 
+        ** -> AH YES ! TOP, on garde
 
 == Abstract
 
-Talk ayant pour objectif d’expliquer l’état d’esprit à avoir pour aborder un salon technologique (comme un Devoxx) :
+Parler du pipeline de veille
+
+
+
+
+
+
+
+
+
+
+
+
+Talk ayant pour objectif d'expliquer comment réaliser une veille technologique efficace : 
+
+    * qui soit soutenable, 
+    * agréable à réaliser
+    * et PAS éphémère (on prend des notes !)
+
+
 
     * ce qu’il est bon d’en retirer
     * les "pièges" à éviter

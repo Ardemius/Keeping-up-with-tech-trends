@@ -100,7 +100,7 @@ Le *workflow de la veille technologique* (Cf Marc Friederich) :
 
 Pas mal, je vois un *parallèle avec un Data pipeline* (ingérer / traiter / visualiser (rendre facilement accessible) avec le stockage en parallèle), mais PAS au sens "Big Data" mais plutôt au sens BI. +
 J'entends par là qu'on ne va pas TOUT récupérer (comme un data lake), mais que l'on va devoir effectuer une sélection en amont (et donc à ce niveau on se rapproche d'une "bonne vieille BI"). +
-Cela nous donne : 
+Cela nous donne le *pipeline de veille* suivant : 
 
 	* *phase de sélection / sélectionner (filtrer) et catégoriser*
 		** on ne peut pas tout suivre, on commence par identifier ce dont on a BESOIN, ou ce qui nous INTERESSE personnellement
@@ -201,6 +201,7 @@ DONC, ce qu'il est très important de garder en tête :
 	* on ne peut PAS tout suivre, il faut FILTRER et apprendre à *lâcher prise*
 		** c'est le 3e article que je lis sur le sujet ? Ai-je VRAIMENT besoin de plus ?
 		** importance de se fixer une *LIMITE* (3 article et je passe à la suite)
+		** et si une ressource / info traîne depuis trop longtemps en "TODO list" -> poubelle (le "lâcher prise", on ne peut pas TOUT suivre)
 	* Par moment, quand on a identifié une bonne source pour un domaine, on RESTE dessus et on arrête de chercher ailleurs afin de pouvoir se concentrer (au moins un certain temps) sur cette source. +
 	-> Cela permet d'éviter de se disperser
 ====
@@ -244,6 +245,54 @@ Votre veille doit vous plaire, pas vous dégoutter 🙂
 	** le retour d'école de la petite en trottinette ? Podcast !
 	** 
 
+== Le pipeline de veille technologique
+
+=== phase de sélection / sélectionner (filtrer) et catégoriser
+
+* on ne peut pas tout suivre, on commence par identifier ce dont on a BESOIN, ou ce qui nous INTERESSE personnellement
+
+=== Lire / consulter l'information
+
+* maintenant qu'on a sélectionné certaines sources que l'on PENSE être intéressantes, on peut *commencer à accéder à l'information*, pour vérifier / valider la précédente sélection. +
+Si l'intérêt est confirmé, on lit complètement "pleinement" l'article.
+
+=== Persister l'information
+
+[IMPORTANT]
+====
+DANS LA PRISE DE NOTES JE CROIS !
+====
+
+* maintenant qu'on a bien lu l'information, et que l'on a confirmé son intérêt, on peut la persister, c'est à dire *lui faire intégrer notre base de connaissances*, afin de nous la rendre accessible et utile à jamais +
+-> Comme expliqué dans mon article sur comment préparer un salon technologique, cela passe par *PRENDRE DES NOTES EFFICACEMENT !*
+
+	** ATTENTION à l'obsolescence des infos ! Raison pour laquelle on date *TOUJOURS* les infos de la base de connaissances.
+		*** Mais grâce à GitHub & co, dans le pire des cas, même si oubli, on a toujours la date du commit 😉 
+
+* Un constat important : il faut chercher à *persister l'information au moment où on la consulte* (lecture ou audio).
+	** ne surtout pas se dire que l'on va "s'en occuper le soir ou demain", car soyons honnêtes, malgré toute la bonne volonté du monde, c'est difficile, les tentations sont nombreuses de faire autre chose, et quand on y repensera on se dira souvent "mais qu'est-ce que je voulais noter déjà ?", et on ne fera rien...
+	** DONC, il faut persister les informations utile sur le coup : 
+		*** jardinage, cuisine ou autre et mains prises ? Dictée vocale !
+		*** toujours avoir déjà de prêt son outil de prise de notes (un simple Google Doc fait très bien l'affaire)
+
+* Exploiter et retravailler / "proprifier" uniquement les informations les plus utiles :
+	** on ne pourra PAS le faire pour toutes ses notes, on aura pas le temps
+	** on va donc distinguer plusieurs types informations et supports pour les persister : 
+		
+		*** notes rapides "flash" de veille : un Google Doc avec dictée vocale
+			**** pas de limite de taille sur un Google Doc
+			**** dictée vocale marche bien
+			**** préfixez l'info par la date de publication DE L'INFORMATION (et pas de quand vous la consultez !)
+
+		*** Base de connaissances : un repo GitHub
+			**** Une fois de plus, repo GitHub = moteur de recherche
+			**** et vous pouvez y accéder de partout, y compris depuis votre smartphone
+
+
+=== Exploiter / valoriser l'information
+
+* Pour les informations les plus utiles, un passage à la pratique permet de pousser sa compréhension / maîtrise des connaissances acquises : POC, projets, article de blog (REX)
+
 == Les ressources
 
 * Livres
@@ -266,6 +315,8 @@ Votre veille doit vous plaire, pas vous dégoutter 🙂
 
 * Pour les infos les plus intéressantes, prendre des notes et se créer sa base de connaissance.
 	** les infos les plus intéressantes, SURTOUT PAS toutes les infos !
+	** ne PAS hésiter à se répéter, à dupliquer (paraphraser), cf la méthode de l'excellente série "In a Nutshell" d'O'Reilly.
+	** je ne crois PAS au "retravail" de ses notes plus tard : c'est trop de travail, on n'y arrivera que de façon très ponctuelle
 
 == Suggestions
 
