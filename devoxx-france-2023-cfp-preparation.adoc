@@ -138,6 +138,8 @@ J'en suis arrivé à la conclusion qu'il y avait une forte analogie entre la fa�
 Cette méthodologie m'a permis d'arriver à certaine "plénitude" dans ma veille : je sais qu'elle est soutenable, super utile et je trouve du plaisir à la faire.
 
 J'ai déjà pu en partie présenter le contenu de ce talk à ma communauté technique, et ai obtenu de très bons retours : on "démystifie" les choses, on montre qu'un résultat tangible peut être obtenu sans y sacrifier sa vie, et qu'on peut même y prendre du plaisir (ce qui est un retour qui fait vraiment du bien 🙂)
+
+Ma préparation du talk est accessible sur GitHub : https://github.com/Ardemius/keeping-up-with-tech-trends
 ----
 
 .markdown
@@ -155,6 +157,8 @@ J'en suis arrivé à la conclusion qu'il y avait une forte **analogie entre la f
 Cette méthodologie m'a permis d'arriver à certaine "plénitude" dans ma veille : je sais qu'elle est **soutenable**, super **utile** et je trouve du **plaisir** à la faire.
 
 J'ai déjà pu en partie présenter le contenu de ce talk à ma communauté technique, et ai obtenu de très bons retours : on "démystifie" les choses, on montre qu'un résultat tangible peut être obtenu sans y sacrifier sa vie, et qu'on peut même y prendre du plaisir (ce qui est un retour qui fait vraiment du bien 🙂)
+
+Ma préparation du talk est accessible sur GitHub : https://github.com/Ardemius/keeping-up-with-tech-trends
 ----
 
 
