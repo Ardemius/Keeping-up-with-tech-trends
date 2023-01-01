@@ -56,6 +56,8 @@ Attention, on attaque !
 	** dernière partie : proposition de valeur (ce que les gens vont retenir) et le format du talk
 * Une majorité des gens vont choisir le talk rien que sur le titre
 
+-> Mon article du blog de Devoxx France 2022 "Comment bien préparer son Devoxx", avec toute la partie sur la prise de notes et la base de connaissance associée sera appelé "article Devoxx"
+
 == Notes
 
 * La grande question : *pourquoi, pour quelles raisons fait-on / faut-il faire de la veille ?*
@@ -260,7 +262,10 @@ Si l'intérêt est confirmé, on lit complètement "pleinement" l'article.
 
 [IMPORTANT]
 ====
-DANS LA PRISE DE NOTES JE CROIS !
+DANS LA PRISE DE NOTES JE CROIS ! +
+-> Il ne faut PAS que votre veille se solde par un résultat EPHEMERE !
+
+"Ah, c'est sympa et utile ça, faut que je le GARDE EN TETE pour m'en souvenir"
 ====
 
 * maintenant qu'on a bien lu l'information, et que l'on a confirmé son intérêt, on peut la persister, c'est à dire *lui faire intégrer notre base de connaissances*, afin de nous la rendre accessible et utile à jamais +
@@ -270,28 +275,53 @@ DANS LA PRISE DE NOTES JE CROIS !
 		*** Mais grâce à GitHub & co, dans le pire des cas, même si oubli, on a toujours la date du commit 😉 
 
 * Un constat important : il faut chercher à *persister l'information au moment où on la consulte* (lecture ou audio).
-	** ne surtout pas se dire que l'on va "s'en occuper le soir ou demain", car soyons honnêtes, malgré toute la bonne volonté du monde, c'est difficile, les tentations sont nombreuses de faire autre chose, et quand on y repensera on se dira souvent "mais qu'est-ce que je voulais noter déjà ?", et on ne fera rien...
-	** DONC, il faut persister les informations utile sur le coup : 
+	** ne surtout pas se dire que l'on va "s'en occuper le soir ou demain", car soyons honnêtes, malgré toute la bonne volonté du monde, c'est difficile, les tentations sont nombreuses de faire autre chose, et quand on y repensera on se dira souvent "mais qu'est-ce que je voulais noter déjà ?", et on ne fera rien... (ce serait une ENORME discipline personnelle)
+	** DONC, il faut persister les informations utile *sur le coup* : 
 		*** jardinage, cuisine ou autre et mains prises ? Dictée vocale !
 		*** toujours avoir déjà de prêt son outil de prise de notes (un simple Google Doc fait très bien l'affaire)
 
-* Exploiter et retravailler / "proprifier" uniquement les informations les plus utiles :
+* Exploiter et retravailler / *"proprifier"* uniquement *les informations les plus utiles* :
 	** on ne pourra PAS le faire pour toutes ses notes, on aura pas le temps
 	** on va donc distinguer plusieurs types informations et supports pour les persister : 
 		
-		*** notes rapides "flash" de veille : un Google Doc avec dictée vocale
+		*** NIV 1 - le "minimum" : *notes rapides "flash" de veille*
+			**** un Google Doc avec dictée vocale
+			**** pour quand vous n'avez pas votre poste à côté de vous et que, même via votre smartphone, il serait trop long d'accéder à votre fichier de "quick notes" (niv 2).
+				***** *INFO CONSULTEES* : Vous êtes en train de cuisiner, de jardiner, vous écoutez un podcast avec une info géniale ? +
+				***** *REFLEXION / PENSEES* : *vous avez une idée géniale ?* +
+				-> Les bonnes idées comme les rêves sont éphémères, vous n'avez par moment que quelques secondes pour persister votre idée géniale, donc vous devez avoir un moyen "flash" de la persister : +
+				votre fichier Google Doc, EN FAVORI de Google Doc pour tomber dessus dès la 1ere page, et dictée vocale immédiate dans la foulée de l'instant où vous avez l'idée.
++
+TIP: Via une dictée vocale, on peut dire *"virgule"* et *"à la ligne"* qui permettent de formater un minimum ses notes sans devoir taper manuellement quoi que ce soit.
+
 			**** pas de limite de taille sur un Google Doc
 			**** dictée vocale marche bien
 			**** préfixez l'info par la date de publication DE L'INFORMATION (et pas de quand vous la consultez !)
+			
+			**** *ARCHIVEZ* ! Par moment, comme vous avez daté les infos persistées, faites du ménage et archivez vos anciennes notes dans un doc à part.
+				***** ne les supprimez PAS ! Qui sait si dans X années vous n'aurez pas besoin de faire un "confère au passé" où ces "vieilles notes" seront bien utiles
 
-		*** Base de connaissances : un repo GitHub
+		*** NIV 2 - "intermédiaire" : "quick notes" DANS la base de connaissances
+			**** 1 unique fichier de quick notes persisté dans la base de connaissances
+			**** chaque section correspond à un article, podcast, vidéo méritant d'être trouvé via une recherche dans la base de connaissance. +
+			On se retrouve donc avec un fichier contenant de multiples notes sur de multiples ressources.
+			**** Idem, on date chaque section, correspond à une ressource, par la date de publication de la ressource
+
+		*** *Base de connaissances* : un repo GitHub
 			**** Une fois de plus, repo GitHub = moteur de recherche
 			**** et vous pouvez y accéder de partout, y compris depuis votre smartphone
+			**** 1 fichier par ressource OU 1 fichier pour tout un salon (cf mon article Devoxx)
 
+* Autre grand rappel (cf article Devoxx) : *ON NE JETTE RIEN !*
+	** *Faites des screenshots* de vos notes papiers si vous avez été forcé d'en prendre sous ce format
+	** ajoutez ces screenshots à votre base de connaissance, avec des *labels / tags* pour les retrouver plus facilement via le moteur de recherche.
 
 === Exploiter / valoriser l'information
 
 * Pour les informations les plus utiles, un passage à la pratique permet de pousser sa compréhension / maîtrise des connaissances acquises : POC, projets, article de blog (REX)
+
+* Et, toujours la même chose, *persistez* vos POC, projets et autres *dans votre base de connaissance*.
+	** de la sorte, vous améliorerez en continu votre base de connaissance, et en conséquence "votre propre valeur"
 
 == Les ressources
 
